@@ -26,4 +26,10 @@
 #### 1. SVM 
     80.3%
 #### 2. 앙상블
-    ?
+    Voting 분류기 정확도 0.8072
+    RandomForestClassifier 정확도: 0.7934
+    BaggingClassifier 정확도: 0.7917
+    ExtraTreesClassifier 정확도: 0.7847
+    GradientBoostingClassifier 정확도: 0.7396
+    SVC 정확도: 0.8212  ( gamma : 450 , C : 300 )
+    XGBClassifier 정확도: 0.7795
