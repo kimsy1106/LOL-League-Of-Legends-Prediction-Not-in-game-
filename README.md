@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/53938323/170057007-8a928a4e-5589-4ed3-b927-bacc82e478b7.png)
+
+
 # 리그오브레전드 사전 승패예측
 
 픽창에서 승패를 알 수 있다. 
