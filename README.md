@@ -60,14 +60,14 @@
 
 #### 1. SVM 
     80.3%
-                  precision    recall  f1-score   support
+                        precision    recall  f1-score   support
 
-           0       0.80      0.81      0.80      2298
-           1       0.80      0.79      0.80      2274
+                   0       0.80      0.81      0.80      2298
+                   1       0.80      0.79      0.80      2274
 
-    accuracy                           0.80      4572
-   macro avg       0.80      0.80      0.80      4572
-   weighted avg       0.80      0.80      0.80      4572
+        accuracy                               0.80      4572
+        macro avg          0.80      0.80      0.80      4572
+        weighted avg       0.80      0.80      0.80      4572
 
 #### 2. 앙상블
     Voting 분류기 정확도 0.8072
